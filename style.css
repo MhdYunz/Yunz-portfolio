@@ -292,7 +292,9 @@ section {
 }
 
 .about-pic1 {
-  border-radius: 2rem;
+    border-radius: 2rem;
+    max-width: 435px;
+    height: auto;
 }
 
 .arrow {
